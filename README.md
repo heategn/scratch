@@ -11,3 +11,7 @@ There is a "synchronize" option that will populate a new flat file based on the 
 Future improvements could include a method to generate rules using a guided process instead of requiring the user to write the rule by hand.
 
 Bash 4.3.48 (Not guaranteed to be portable nor bug-free)
+
+# bash/stopwatch
+
+This will take an integer representing the number of minutes to countdown and perform an action. Currently, it displays a kdialog.
